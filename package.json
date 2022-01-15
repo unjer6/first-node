@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/unjer6/first-node/issues"
   },
-  "homepage": "https://github.com/unjer6/first-node#readme"
+  "homepage": "https://github.com/unjer6/first-node#readme",
+  "dependencies": {
+    "underscore": "^1.13.2"
+  }
 }
